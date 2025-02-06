@@ -8,10 +8,18 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 ## Rotas
 
 ### Obter Todos os Filmes
-
 - **Método:** `GET`;
 -  **Endpoint:** `/movies`;
 
+### Obter um Filme pelo ID
+- **Método:** GET;
+- **Endpoint:** /movies/:id
+- **Parâmetros: id.
+  
+### Obter os 10 Melhores Filmes
+- **Método:** GET;
+- **Endpoint:** /movies/top10;
+  
 ### Adicionar um Novo Filme
 - **Método:** POST;
 - **Endpoint:** /movies;
@@ -26,12 +34,3 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 - **Método:** DELETE;
 - **Endpoint:** /movies/:id;
 - **Parâmetros:** id.
-
-### Obter os 10 Melhores Filmes
-- **Método:** GET;
-- **Endpoint:** /movies/top10;
-
-### Obter um Filme pelo ID
-- **Método:** GET;
-- **Endpoint:** /movies/:id
-- **Parâmetros: id.
