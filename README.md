@@ -1,4 +1,5 @@
-FILMES
+## FILMES
+
 Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualizar e deletar filmes.
 
 ## Rotas
@@ -7,6 +8,8 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 
 - **Método:** `GET`
 - **Endpoint:** `/movies`
+
+
 Adicionar um Novo Filme
 Método: POST
 
