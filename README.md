@@ -10,15 +10,13 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 - **Endpoint:** `/movies`
 
 
-Adicionar um Novo Filme
-Método: POST
+### Adicionar um Novo Filme
+-**Método:** POST
+-**Endpoint:** /movies
 
-Endpoint: /movies
-
-Atualizar um Filme
-Método: PUT
-
-Endpoint: /movies/:id
+### Atualizar um Filme
+-**Método:** PUT
+-**Endpoint:** /movies/:id
 
 
 
