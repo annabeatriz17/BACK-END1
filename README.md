@@ -17,7 +17,7 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 - **Método:** POST;
 - **Endpoint:** /movies;
 - **Parâmetros:**
-- -title;
+  -title;
 
 ### Atualizar um Filme
 - **Método:** PUT;
