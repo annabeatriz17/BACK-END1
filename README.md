@@ -1,5 +1,8 @@
 ## FILMES
 
+- Mufasa: O Rei Leão;
+- Divertida Mente 2.
+
 Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualizar e deletar filmes.
 
 ## Rotas
