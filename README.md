@@ -7,7 +7,7 @@ Esta é uma API que permite gerenciar filmes, sendo possível adicionar, atualiz
 ### Obter Todos os Filmes
 
 - **Método:** `GET`;
-- **Endpoint:** `/movies`;
+° **Endpoint:** `/movies`;
 
 
 ### Adicionar um Novo Filme
