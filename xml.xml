@@ -1,0 +1,12 @@
+<Movies>
+    <Movie>
+        <Title>Mufasa: O Rei Leão</Title>
+        <Director>Barry Jenkins</Director>
+        <Duration>128</Duration>
+    </Movie>
+    <Movie>
+        <Title>Divertida Mente 2</Title>
+        <Director>Pete Docter</Director>
+        <Duration>135</Duration>
+    </Movie>
+</Movies>
